@@ -1,0 +1,19 @@
+[
+    {
+        "Author": "nesphy",
+        "Name": "SpicyBlackJack v1.0.0",
+        "InternalName": "SpicyBlackJack",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "It allows you to manage a BlackJack Table with simple, but spicy rules! Be a dealer and strip so many girls u want to c:",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Spicy your Blackjack game with automation plugin!",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/nesforia/xiv-spicyblackjack/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/nesforia/xiv-spicyblackjack/releases/latest/download/latest.zip"
+    }
+]
